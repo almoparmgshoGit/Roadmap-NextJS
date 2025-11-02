@@ -27,7 +27,7 @@
 
 ---
 
-## ![Star](https://img.icons8.com/color/48/000000/star.png) [Star](https://img.icons8.com/color/48/000000/star.png) [Star](https://img.icons8.com/color/48/000000/star.png) المستوى 3: متقدم / مشاريع أكبر
+## ![Star](https://img.icons8.com/color/48/000000/star.png) ![Star](https://img.icons8.com/color/48/000000/star.png) ![Star](https://img.icons8.com/color/48/000000/star.png)المستوى 3: متقدم / مشاريع أكبر
 **الهدف:** دمج APIs متعددة، تحسين الأداء، تصميم تفاعلي، SSR/ISR.
 
 | المشروع | API | الإنجازات / المهارات المكتسبة |
