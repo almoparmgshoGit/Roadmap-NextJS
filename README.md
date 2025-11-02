@@ -90,6 +90,6 @@
 | ![Paypal](https://img.icons8.com/color/48/000000/paypal.png) دعم المطور | [PayPal](https://paypal.me/ahmedcoderx) |
 | ![Vodafone Cash](https://img.icons8.com/color/48/000000/money-transfer.png) فودافون كاش | 01008125431 |
 
- [EG](🇪🇬) |
+ (🇪🇬)
 
 
