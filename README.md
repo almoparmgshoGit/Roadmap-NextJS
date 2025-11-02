@@ -77,14 +77,19 @@
 
 
 ---
+---
 
-## ![Contact](https://img.icons8.com/color/48/000000/contacts.png) تواصل معي
+## ![Contact](https://img.icons8.com/color/48/000000/contacts.png) تواصل معي / دعم
 
-يمكنك التواصل معي عبر أي من الطرق التالية:
+يمكنك التواصل معي أو دعمي عبر أي من الطرق التالية:
 
 | الوسيلة | التفاصيل |
 |---------|----------|
 | ![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png) WhatsApp | [اضغط للتواصل](https://wa.me/201008125431) |
 | ![Email](https://img.icons8.com/color/48/000000/email.png) البريد الإلكتروني | [Gmail](mailto:ahmedsmmeg@gmail.com) |
 | ![Paypal](https://img.icons8.com/color/48/000000/paypal.png) دعم المطور | [PayPal](https://paypal.me/ahmedcoderx) |
+| ![Vodafone Cash](https://img.icons8.com/color/48/000000/money-transfer.png) فودافون كاش | 01008125431 |
+
+ [EG](🇪🇬) |
+
 
